@@ -1,0 +1,19 @@
+.global{
+  text-align: center!important;
+  margin:70px;
+
+}
+
+.card{
+  margin : 20px;
+  background-color: #e9ecef;
+}
+
+.card-title{
+  font-size: 105%;
+}
+
+.btn{
+
+  font-size: 90%;
+}
