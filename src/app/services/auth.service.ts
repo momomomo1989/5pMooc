@@ -8,7 +8,7 @@ import { environment } from '../../environments/environment';
 export class AuthService {
 
   // domain = ""; // Production
-  //domain = environment.domain;
+  domain = environment.domain;
   authToken;
   user;
   options;
